@@ -1,19 +1,15 @@
 Links to Tutorial: https://www.youtube.com/watch?v=9uMorgBB_RU&t=447s
 
-VS Code Powershell Getting Startedhttps://tinyurl.com/LearnVSCodePWSH
-
-
-VS Code Getting Startedhttps://code.visualstudio.com/docs/getstarted/introvideos
-
-Using VSCode as your DefaultPowershell Editorhttps://youtu.be/LF0Srh9hxj8
-
-Git 101 Basics: Scott Hanselmanhttps://youtu.be/WBg9mlpzEYU
-
+Pre-requisities:
+VS Code Powershell Getting Started: https://tinyurl.com/LearnVSCodePWSH
+VS Code Getting Started: https://code.visualstudio.com/docs/getstarted/introvideos
+Using VSCode as your Default Powershell Editor: https://youtu.be/LF0Srh9hxj8
+Git 101 Basics: Scott Hanselman: https://youtu.be/WBg9mlpzEYU
 
 Not sure that these are his latest, but I found settings.json here.. 
 https://github.com/JustinGrote/PWSH24Examples/blob/main/settings.json
 
-Can you please share the link for CaskaydiaCove-NF
+The link for CaskaydiaCove-NF
 https://www.nerdfonts.com/font-downloads
 
 Section 1: Power Extension Pack
